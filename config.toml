@@ -1,0 +1,15 @@
+baseurl = "http://wah.guoyong.me/"
+languageCode = "zh-cn"
+title = "不上班的程序员"
+author = "wolfg1969"
+theme = "hyde"
+canonifyurls = true
+pygmentsuseclasses = true
+
+[params]
+  themeColor = "theme-base-0b"
+  # layoutReverse = true
+  description = "女儿对同学说：“我爸爸的工作是程序员，在家工作。”"
+  author = "wolfg1969"
+  copyright = "@wolfg1969 2016. "
+  # homeTitle = "首页"
