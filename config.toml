@@ -5,6 +5,8 @@ author = "wolfg1969"
 theme = "hyde"
 canonifyurls = true
 pygmentsuseclasses = true
+# pygmentsstyle = "monokai"
+pygmentscodefences = true
 hasCJKLanguage = true
 
 [params]
