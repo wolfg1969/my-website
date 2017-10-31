@@ -2,3 +2,9 @@
 	path = public
 	url = git@github.com:wolfg1969/wolfg1969.github.io.git
 	branch = master
+[submodule "themes/hugo-zen"]
+	path = themes/hugo-zen
+	url = git@github.com:wolfg1969/hugo-zen.git
+[submodule "publib"]
+	path = publib
+	url = git@github.com:wolfg1969/wolfg1969.github.io.git

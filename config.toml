@@ -1,8 +1,9 @@
 baseurl = "http://blog.guoyong.me/"
 languageCode = "zh-cn"
-title = "不上班的程序员"
+title = "GUOYONG.ME"
 author = "wolfg1969"
-theme = "hyde"
+copyright = "wolfg1969 All rights reserved."
+theme = "hugo-zen"
 canonifyurls = true
 pygmentsuseclasses = true
 # pygmentsstyle = "monokai"
@@ -10,9 +11,7 @@ pygmentscodefences = true
 hasCJKLanguage = true
 
 [params]
-  themeColor = "theme-base-0b"
-  # layoutReverse = true
-  description = "女儿对同学说：“我爸爸的工作是程序员，在家工作。”"
-  author = "wolfg1969"
-  copyright = "Copyright &#xA9; 2016 wolfg1969. All Rights Reserved."
-  homeTitle = "文章列表"
+  # googleanalytics = "UA-12345678-9"
+  logo = "/images/logo.png"
+  github = "https://github.com/wolfg1969/"
+  twitter = "https://twitter.com/wolfg1969"
